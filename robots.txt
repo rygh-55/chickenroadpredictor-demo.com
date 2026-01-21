@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://chickenroadpredictor-demo.com:1313/sitemap.xml
+Sitemap: http://chickenroadpredictor-demo.com/sitemap.xml
