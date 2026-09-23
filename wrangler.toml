@@ -1,0 +1,11 @@
+name = "chickenroadpredictor-demo-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chickenroadpredictor-demo.com"
+HMAC_KEY = "4bd41812fe8fc59b489f9517a1a231480eddb120a19a7f8bcafddba5d8b7d093"
+COOKIE_NAME = "439"
+PLAY_PATH = "go"
+BUTTON_ID = "p9eceb930ee01674067cab964995e8e3b"
+GATE_SALT = "c1b43df04980025b"
